@@ -45,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		50989DFE2151DB29004DBB4A /* FSPagerViewObjcCompat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSPagerViewObjcCompat.h; sourceTree = "<group>"; };
+		AE3F9DE6242C81FA00F7F7C4 /* FSPagerViewExample copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "FSPagerViewExample copy-Info.plist"; path = "/Users/yun/Documents/FSPagerView/FSPageViewExample-Swift/FSPagerViewExample copy-Info.plist"; sourceTree = "<absolute>"; };
 		F931E00B2158A1F3001B2A01 /* FSPagerViewObjcCompat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSPagerViewObjcCompat.m; sourceTree = "<group>"; };
 		F95483991E625F1E0069FD7E /* FSPagerViewLayoutAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPagerViewLayoutAttributes.swift; sourceTree = "<group>"; };
 		F9580B511E5D995400C5B267 /* FSPageControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPageControl.swift; sourceTree = "<group>"; };
@@ -116,6 +117,7 @@
 				F9C694231E40C583007084B6 /* FSPagerViewExample */,
 				F9C694581E40C720007084B6 /* FSPagerViewExampleUITests */,
 				F97C96781E1FDE25002D9E7E /* Products */,
+				AE3F9DE6242C81FA00F7F7C4 /* FSPagerViewExample copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
